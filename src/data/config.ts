@@ -13,9 +13,9 @@ const config = {
     "web development",
     "3D animations",
     "interactive websites",
-    "Coding Ducks",
-    "The Booking Desk",
-    "Ghostchat",
+    "Travel Story",
+    "ArtsyMart",
+    "Todogul",
     "web design",
     "GSAP",
     "React",
@@ -25,7 +25,7 @@ const config = {
   ],
   author: "Gavin Adlan",
   email: "gavinadlan@gmail.com",
-  site: "https://nareshkhatri.site",
+  site: "https://gavinadlan.my.id",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";

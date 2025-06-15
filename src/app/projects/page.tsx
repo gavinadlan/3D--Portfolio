@@ -11,55 +11,53 @@ import "@splidejs/react-splide/css";
 const PROJECTS = [
   {
     id: 1,
-    name: "Coding Ducks",
-    description: `Dive into CodingDucks, a fusion of CodePen's creative playground with LeetCode's problem-solving realm.
-Whether you're a newbie or a seasoned coder, join the community to paddle through coding adventures and let your
-creativity soar.`,
-    link: "https://www.codingducks.live",
+    name: "Travel Story App",
+    description: `A full-stack MERN app where users can securely log in, write travel stories with images, and manage them with filtering and search.`,
+    link: "https://travel-story-alpha.vercel.app/login",
     images: [
-      "/assets/projects-screenshots/codingducks/1.png",
-      "/assets/projects-screenshots/codingducks/2.png",
-      "/assets/projects-screenshots/codingducks/3.png",
-      "/assets/projects-screenshots/codingducks/4.png",
-      "/assets/projects-screenshots/codingducks/5.png",
+      "/assets/projects-screenshots/travelstory/Home.png",
+      "/assets/projects-screenshots/travelstory/Home 2.png",
+      "/assets/projects-screenshots/travelstory/Add Story.png",
+      "/assets/projects-screenshots/travelstory/view story.png",
+      "/assets/projects-screenshots/travelstory/Update Story.png",
+      "/assets/projects-screenshots/travelstory/Login.png",
     ],
   },
   {
     id: 2,
-    name: "Ghost Chat",
-    description: `GhostChat is an anonymous messaging app that allows users to connect without revealing their identities. 
-Join the community for intriguing conversations and mysterious encounters.`,
-    link: "https://ghostchatt.vercel.app/",
+    name: "ArtsyMart",
+    description: `Simple PHP e-commerce site for paintings built with HTML, Bootstrap, and MySQL. Includes login, cart, checkout, and product listing.`,
+    link: "https://github.com/gavinadlan/ArtsyMart",
     images: [
-      "/assets/projects-screenshots/ghostchat/1.png",
-      "/assets/projects-screenshots/ghostchat/2.png",
-      "/assets/projects-screenshots/ghostchat/3.png",
-      "/assets/projects-screenshots/ghostchat/4.png",
+      "/assets/projects-screenshots/artsymart/home.png",
+      "/assets/projects-screenshots/artsymart/catalog.png",
+      "/assets/projects-screenshots/artsymart/loginpage.png",
+      "/assets/projects-screenshots/artsymart/createaccount.png",
+      "/assets/projects-screenshots/artsymart/footer.png",
     ],
   },
   {
     id: 3,
-    name: "Coupon Luxury",
-    description: `Welcome to CouponLuxury, your destination for exclusive discounts and savings. Explore the platform to find the
-best deals on luxury brands and products. Join our savvy community of shoppers and unlock access to premium coupons.`,
-    link: "https://www.couponluxury.com/",
+    name: "JakEstate",
+    description: `A clean and modern real estate landing page built with React, TypeScript, and Tailwind CSS, focused on premium property listings.`,
+    link: "https://jak-estate.vercel.app",
     images: [
-      "/assets/projects-screenshots/couponluxury/1.png",
-      "/assets/projects-screenshots/couponluxury/2.png",
-      "/assets/projects-screenshots/couponluxury/3.png",
-      "/assets/projects-screenshots/couponluxury/4.png",
-      "/assets/projects-screenshots/couponluxury/5.png",
+      "/assets/projects-screenshots/jakestate/mainpage.png",
+      "/assets/projects-screenshots/jakestate/about.png",
+      "/assets/projects-screenshots/jakestate/contactus.png",
+      "/assets/projects-screenshots/jakestate/project.png",
+      "/assets/projects-screenshots/jakestate/testimonials.png",
     ],
   },
   {
     id: 4,
-    name: "JNTUA Results Analyser",
-    description: `the go-to app for JNTUA students, empowering them to analyze, compare, and view classwise results effortlessly.
-     Dive into your academic journey with ease, track your progress, and gain valuable insights.`,
-    link: "/projects/4",
-    images: ["/assets/projects-screenshots/jra/1.png"],
+    name: "todogul",
+    description: `A modern to-do list app built with Flutter. Includes authentication, onboarding, and smooth UI for task management.`,
+    link: "https://github.com/gavinadlan/todogul",
+    images: ["/assets/projects-screenshots/todogul/Todogul.png"],
   },
 ];
+
 function Page() {
   return (
     <>
