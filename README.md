@@ -29,31 +29,31 @@ Welcome to the repository for my personal portfolio website! This is where I sho
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/Naresh-Khatri/Portfolio.git
-    ```
+   ```bash
+   git clone https://github.com/gavinadlan/3D--Portfolio.git
+   ```
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd Portfolio
-    ```
+   ```bash
+   cd Portfolio
+   ```
 
 3. Install dependencies:
 
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
 4. Run the development server:
 
-    ```bash
-    npm run dev
-    # or
-    yarn dev
-    ```
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the magic!
 
