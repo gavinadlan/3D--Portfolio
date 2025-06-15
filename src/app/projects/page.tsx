@@ -13,7 +13,7 @@ const PROJECTS = [
     id: 1,
     name: "Travel Story App",
     description: `A full-stack MERN app where users can securely log in, write travel stories with images, and manage them with filtering and search.`,
-    link: "https://travel-story-alpha.vercel.app/login",
+    link: "https://travel-story-alpha.vercel.app",
     images: [
       "/assets/projects-screenshots/travelstory/Home.png",
       "/assets/projects-screenshots/travelstory/Home 2.png",
