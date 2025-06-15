@@ -24,7 +24,7 @@ const config = {
     "Framer Motion",
   ],
   author: "Gavin Adlan",
-  email: "gavinadlan@gmail.com",
+  email: "gavinadlanhid@gmail.com",
   site: "https://gavinadlan.my.id",
 
   get ogImg() {
