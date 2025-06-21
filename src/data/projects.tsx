@@ -316,7 +316,7 @@ const projects: Project[] = [
         PROJECT_SKILLS.mongo,
       ],
     },
-    live: "https://travel-story-alpha.vercel.app/login",
+    live: "https://travel-story-alpha.vercel.app",
     github: "https://github.com/gavinadlan/Travel-Story",
     get content() {
       return (
